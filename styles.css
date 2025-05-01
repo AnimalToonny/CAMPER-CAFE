@@ -7,6 +7,18 @@ h1,
 h2 {
    font-family: Impact, serif;
 }
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+.item {
+    margin: 10px;
+}
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
