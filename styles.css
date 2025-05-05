@@ -58,3 +58,7 @@ hr {
 .established {
     font-style: italic;
 }
+/*FOOTER*/
+footer {
+    font-size: 14px;
+}
